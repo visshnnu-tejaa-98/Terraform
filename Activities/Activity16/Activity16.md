@@ -29,7 +29,7 @@ Launch Linux EC2 Instances in two regions using a single terraform file
 
    **Sample Screenshot**
 
-   ![alt text](/images/Activity16/version.png)
+   ![alt text](/Images/Activity16/version.png)
 
 ## Step 2: Create AWS Access Keys
 
