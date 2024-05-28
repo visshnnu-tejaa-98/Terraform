@@ -51,7 +51,7 @@ Launch Linux EC2 Instances in two regions using a single terraform file
    ```
 
    **Sample Screenshot**
-   ![alt text](/images/Activity16/aws-creds.png)
+   ![alt text](/Images/Activity16/aws-creds.png)
 
 ## Step 4: Creating a repository
 
@@ -98,7 +98,7 @@ Launch Linux EC2 Instances in two regions using a single terraform file
 
    **Sample Screenshot**
 
-   ![alt text](/images/Activity16/terraform-init.png)
+   ![alt text](/Images/Activity16/terraform-init.png)
 
 5. Plan the resources
 
@@ -108,7 +108,7 @@ Launch Linux EC2 Instances in two regions using a single terraform file
 
    **Smaple Screenshot**
 
-   ![alt text](/images/Activity16/terraform-pan.png)
+   ![alt text](/Images/Activity16/terraform-pan.png)
 
 6. Apply the changes using the following command
 
@@ -118,17 +118,17 @@ Launch Linux EC2 Instances in two regions using a single terraform file
 
    **Sample Screenshot**
 
-   ![alt text](/images/Activity16/terraform-apply.png)
+   ![alt text](/Images/Activity16/terraform-apply.png)
 
 7. You can verify the instance up and running in the aws console.
 
    **us-east-1 (Virginia)**
 
-   ![alt text](/images/Activity16/us-east1.png)
+   ![alt text](/Images/Activity16/us-east1.png)
 
    **ap-south-1 (Mumbai)**
 
-   ![alt text](/images/Activity16/ap-south-1.png)
+   ![alt text](/Images/Activity16/ap-south-1.png)
 
 8. Deleting the 2 instances
 
@@ -138,4 +138,4 @@ Launch Linux EC2 Instances in two regions using a single terraform file
 
    **Sample Screenshot**
 
-   ![alt text](/images/Activity16/terraform-destroy.png)
+   ![alt text](/Images/Activity16/terraform-destroy.png)
