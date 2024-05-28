@@ -2,6 +2,8 @@
 
 Launch Linux EC2 Instances in two regions using a single terraform file
 
+**Check main.tf file in Activities/Activity16 directory**
+
 ## Step 1: Install Terraform, AWS and configure
 
 1. Install Terraform using this link https://developer.hashicorp.com/terraform/install
