@@ -51,6 +51,7 @@ Launch Linux EC2 Instances in two regions using a single terraform file
    ```
 
    **Sample Screenshot**
+
    ![alt text](/Images/Activity16/aws-creds.png)
 
 ## Step 4: Creating a repository
